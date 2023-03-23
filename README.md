@@ -37,23 +37,23 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd habits
+  cd Watcho_habit-tracker_app/
 ```
 
 Install the dependencies of each application
 
 ```bash
-  cd server
+  cd server/
   npm install
 ```
 
 ```bash
-  cd web
+  cd web/
   npm install
 ```
 
 ```bash
-  cd mobile
+  cd mobile/
   npm install
 ```
 
